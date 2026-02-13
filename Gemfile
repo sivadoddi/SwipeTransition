@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
 
-gem 'danger'
-gem 'danger-swiftlint'
-gem 'danger-lgtm'
+gem 'danger', '>= 9.2.0'
+gem 'danger-swiftlint', '>= 0.12.0'
+gem 'danger-lgtm', '>= 1.0.1'
